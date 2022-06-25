@@ -66,6 +66,11 @@ body{
     border-color: var(--pink)!important;
 }
 
+.kotak{
+    background-color: white;
+    background: transparent;
+}
+
 /* title */
 .title h2::before{
     position: absolute;
