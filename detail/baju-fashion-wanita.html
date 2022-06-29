@@ -48,11 +48,14 @@
           <span class="text-uppercase fw-lighter ms-2"> Online Shop </span>
         </a>
 
-        <div class="order-lg-2 nav-btns">
-          <button type="button" class="btn position-relative">
-            <i class="fa fa-search"></i>
-          </button>
-        </div>
+        <button
+          class="navbar-toggler border-0"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navMenu"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
 
         <div class="collapse navbar-collapse order-lg-1" id="navMenu">
           <ul class="navbar-nav mx-auto text-center">
@@ -65,6 +68,17 @@
               <a class="nav-link text-uppercase text-dark" href="#collection">
                 collection
               </a>
+            </li>
+            <li class="order-lg-2 nav-btns d-flex justify-content-center">
+              <input
+                class="form-control mr-sm-2"
+                type="search"
+                placeholder="Search"
+                aria-label="Search"
+              />
+              <button type="button" class="btn position-relative">
+                <i class="fa fa-search"></i>
+              </button>
             </li>
           </ul>
         </div>

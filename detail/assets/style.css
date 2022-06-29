@@ -1,73 +1,73 @@
-body{
-	background-color: #000;
+body {
+  background-color: #000;
 }
-a{
-	text-decoration: none !important;
+a {
+  text-decoration: none !important;
 }
-.back{
-	color: #323b44;
+.back {
+  color: #323b44;
 }
-.back:hover{
-	color: #1578e8;
+.back:hover {
+  color: #1578e8;
 }
-.card{
-	border:none;
-	margin-top: 80px;
+.card {
+  border: none;
+  margin-top: 80px;
 }
-.product{
-	background-color: #eee;
+.product {
+  background-color: #eee;
 }
-.brand{
-	font-size: 13px;
+.brand {
+  font-size: 13px;
 }
-.act-price{
-	color: #f02255;
-	font-weight: 700;
-	font-size: 14pt;
+.act-price {
+  color: #f02255;
+  font-weight: 700;
+  font-size: 14pt;
 }
-.dis-price{
-	text-decoration: line-through;
+.dis-price {
+  text-decoration: line-through;
 }
-.about{
-	font-size: 14px;
+.about {
+  font-size: 14px;
 }
-.color{
-	margin-bottom:10px;
+.color {
+  margin-bottom: 10px;
 }
-label.radio{
-	cursor: pointer;
+label.radio {
+  cursor: pointer;
 }
-label.radio input{
-	position: absolute;
-	top: 0;
-	left: 0;
-	visibility: hidden;
-	pointer-events: none;
+label.radio input {
+  position: absolute;
+  top: 0;
+  left: 0;
+  visibility: hidden;
+  pointer-events: none;
 }
-label.radio span{
-	padding: 2px 9px;
-	border: 2px solid #f02255;
-	display: inline-block;
-	color: #f02255;
-	border-radius: 3px;
-	text-transform: uppercase;
+label.radio span {
+  padding: 2px 9px;
+  border: 2px solid #f02255;
+  display: inline-block;
+  color: #f02255;
+  border-radius: 3px;
+  text-transform: uppercase;
 }
-label.radio input:checked+span{
-	border-color: #f02255;
-	background-color: #f02255;
-	color: #fff;
+label.radio input:checked + span {
+  border-color: #f02255;
+  background-color: #f02255;
+  color: #fff;
 }
-.btn-cart{
-	background-color: #1578e8 !important;
-	border-color: #1578e8 !important;
+.btn-cart {
+  background-color: #1578e8 !important;
+  border-color: #1578e8 !important;
 }
-.btn-cart:hover{
-	background-color: #f02255 !important;
-	border-color: #f02255 !important;
+.btn-cart:hover {
+  background-color: #f02255 !important;
+  border-color: #f02255 !important;
 }
-.btn-cart:focus{
-	box-shadow: none;
+.btn-cart:focus {
+  box-shadow: none;
 }
-.cart a{
-	margin-right: 10px;
+.cart a {
+  margin-right: 10px;
 }
