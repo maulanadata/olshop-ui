@@ -4,4 +4,6 @@ Anggota :
 
 - Adithya Frachmansyah
 - Muh. Wildan Maulana
-  Live Demo - https://onlineshopkelompok7.netlify.app/
+  
+  # Live Demo
+  https://onlineshopkelompok7.netlify.app/
