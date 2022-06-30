@@ -1,6 +1,6 @@
 # Kelompok 7,
 
-Online shop online shopan
+Online shop online shopan hasil belajar dari tutorial youtube
 Teknologi yang di pakai :
 - HTML, CSS, JS
 - Bootstrap 5
