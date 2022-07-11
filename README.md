@@ -11,7 +11,7 @@ Teknologi yang di pakai :
 Anggota :
 
 - Adithya Frachmansyah
-- Muh. Wildan Maulana
+- Mohamad Wildan Maulana
   
   # Live Demo
   https://onlineshopkelompok7.netlify.app/
